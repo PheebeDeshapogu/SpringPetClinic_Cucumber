@@ -1,0 +1,19 @@
+13:08:15.666 [main] INFO  stepDefinition.Steps - Welcome header is present
+13:08:15.905 [main] INFO  stepDefinition.Steps - Clicked on the Add Owner
+13:08:15.995 [main] INFO  stepDefinition.Steps - Enter the Fname
+13:08:16.062 [main] INFO  stepDefinition.Steps - Enter the Lname
+13:08:16.132 [main] INFO  stepDefinition.Steps - Enter the Address
+13:08:16.204 [main] INFO  stepDefinition.Steps - Enter the City
+13:08:16.278 [main] INFO  stepDefinition.Steps - Enter the Telephome
+13:13:03.626 [main] INFO  stepDefinition.Steps - Welcome header is present
+13:13:03.852 [main] INFO  stepDefinition.Steps - Clicked on the Add Owner
+13:13:03.944 [main] INFO  stepDefinition.Steps - Enter the Fname
+13:13:04.017 [main] INFO  stepDefinition.Steps - Enter the Lname
+13:13:04.088 [main] INFO  stepDefinition.Steps - Enter the Address
+13:13:04.158 [main] INFO  stepDefinition.Steps - Enter the City
+13:13:04.236 [main] INFO  stepDefinition.Steps - Enter the Telephone
+13:13:04.363 [main] INFO  stepDefinition.Steps - Clicked on Add Owner Button
+13:13:04.405 [main] INFO  stepDefinition.Steps - Login Success
+13:13:04.407 [main] INFO  stepDefinition.Steps - Validating the Owner Information Page
+15:16:36.487 [main] INFO  stepDefinition.Steps - Welcome header is present
+15:16:38.863 [main] INFO  stepDefinition.Steps - Welcome header is present
